@@ -1,0 +1,15 @@
+{
+  "books": {
+    "Python": 213,
+    "Harry Potter": 8,
+    "Wladca Pierscieni": 7,
+    "Test": 123
+  },
+  "history": [
+    "Kupiono Python, sztuk 123",
+    "Kupiono Harry Potter, sztuk 8",
+    "Kupiono Wladca Pierscieni, sztuk 7",
+    "Kupiono Python, sztuk 100",
+    "Kupiono Test, sztuk 123"
+  ]
+}
